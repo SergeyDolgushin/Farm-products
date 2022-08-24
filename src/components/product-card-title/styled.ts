@@ -6,4 +6,5 @@ export const StyledTitle = styled(H3)`
   color: #333333;
   line-height: 1.3;
   font-weight: bold;
+  margin-bottom: 20px;
 `;
